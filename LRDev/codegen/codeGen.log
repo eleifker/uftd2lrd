@@ -1,0 +1,51 @@
+[20:18:39.18] Info: Running build Release_2022.2.0_2378 on windows
+[20:18:39.21] Info: DevWeb offline generator started with 'har' mode, 'pages' level.
+[20:18:39.21] Info: Generating script from 'C:\Users\demo\eclipse-workspace\eluftd\LRDev\proxyrecorder.har'.
+[20:18:39.21] Info: Using configuration file: C:\ProgramData\Micro Focus\LoadRunner\DevWeb\generator_config.yml.
+[20:18:39.24] Info: HAR file loaded, started parsing phase.
+[20:18:39.24] Info: Configured none resources list: [text/html text/xml text/plain application/json]
+[20:18:39.24] Info: Parsing done, loaded 19 steps from HAR.
+[20:18:39.24] Info: Configured headers to filter: [Host Content-Length Cookie]
+[20:18:39.24] Info: Configured hosts exclude list: [.*google.* .*bing.* .*geolocation.* .*gstatic.* .*firefox.*]
+[20:18:39.24] Info: Configured extensions to filter: [.ico]
+[20:18:39.25] Info: **********************************************
+[20:18:39.25] Info: WebRequest [Id: 1] GET 'http://edgedl.me.gvt1.com/edgedl/chromewebstore/L2Nocm9tZV9leHRlbnNpb24vYmxvYnMvYjFkQUFWdmlaXy12MHFUTGhWQUViMUVlUQ/0.57.44.2492_hnimpnehoodheedghdeeijklkeaacbdc.crx'
+[20:18:39.25] Info: **********************************************
+[20:18:39.25] Info: WebRequest [Id: 2] GET 'http://nimbusserver:8000/'
+[20:18:39.25] Info: **********************************************
+[20:18:39.25] Info: WebRequest [Id: 3] GET 'http://nimbusserver:8000/services.properties'
+[20:18:39.25] Info: **********************************************
+[20:18:39.25] Info: WebRequest [Id: 4] GET 'http://nimbusserver.aos.com:8002/catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL'
+[20:18:39.25] Info: **********************************************
+[20:18:39.25] Info: WebRequest [Id: 5] OPTIONS 'http://nimbusserver.aos.com:8001//accountservice/ws/GetAccountConfigurationRequest'
+[20:18:39.25] Info: **********************************************
+[20:18:39.25] Info: WebRequest [Id: 6] POST 'http://nimbusserver.aos.com:8001//accountservice/ws/GetAccountConfigurationRequest'
+[20:18:39.25] Info: **********************************************
+[20:18:39.25] Info: WebRequest [Id: 7] GET 'http://nimbusserver.aos.com:8002/catalog/api/v1/categories'
+[20:18:39.25] Info: **********************************************
+[20:18:39.25] Info: WebRequest [Id: 8] GET 'http://nimbusserver.aos.com:8002/catalog/api/v1/deals/search'
+[20:18:39.25] Info: **********************************************
+[20:18:39.25] Info: WebRequest [Id: 9] GET 'http://nimbusserver:8000/app/tempFiles/popularProducts.json'
+[20:18:39.25] Info: **********************************************
+[20:18:39.26] Info: WebRequest [Id: 10] GET 'http://nimbusserver:8000/app/views/home-page.html'
+[20:18:39.26] Info: **********************************************
+[20:18:39.26] Info: WebRequest [Id: 11] GET 'http://nimbusserver.aos.com:8002/catalog/api/v1/categories/4/products'
+[20:18:39.26] Info: **********************************************
+[20:18:39.26] Info: WebRequest [Id: 12] GET 'http://nimbusserver.aos.com:8002/catalog/api/v1/categories/attributes'
+[20:18:39.26] Info: **********************************************
+[20:18:39.26] Info: WebRequest [Id: 13] GET 'http://nimbusserver:8000/app/views/category-page.html'
+[20:18:39.26] Info: **********************************************
+[20:18:39.26] Info: WebRequest [Id: 14] GET 'http://nimbusserver.aos.com:8002/catalog/api/v1/categories/all_data'
+[20:18:39.26] Info: **********************************************
+[20:18:39.26] Info: WebRequest [Id: 15] GET 'http://nimbusserver.aos.com:8002/catalog/api/v1/products/25'
+[20:18:39.26] Info: **********************************************
+[20:18:39.26] Info: WebRequest [Id: 16] GET 'http://nimbusserver.aos.com:8002/catalog/api/v1/categories/4/products'
+[20:18:39.26] Info: **********************************************
+[20:18:39.26] Info: WebRequest [Id: 17] GET 'http://nimbusserver:8000/app/views/product-page.html'
+[20:18:39.26] Info: **********************************************
+[20:18:39.26] Info: WebRequest [Id: 18] GET 'http://nimbusserver:8000/app/views/shoppingCart.html'
+[20:18:39.26] Info: Created 18 steps.
+[20:18:39.26] Info: scenario.yml already exists at 'C:\Users\demo\eclipse-workspace\eluftd\LRDev' and will not be updated.
+[20:18:39.26] Info: rts.yml already exists at 'C:\Users\demo\eclipse-workspace\eluftd\LRDev\rts.yml' and will not be updated.
+[20:18:39.26] Info: DevWeb script generated in folder 'C:\Users\demo\eclipse-workspace\eluftd\LRDev'.
+[20:18:39.27] Info: Save input file as C:\Users\demo\eclipse-workspace\eluftd\LRDev\codegen\codegen.har

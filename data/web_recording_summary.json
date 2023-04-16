@@ -1,0 +1,63 @@
+{
+	"FilterHeaders": [
+		{
+			"Header": "",
+			"IncludeInScript": false
+		}
+	],
+	"FilterResources": [
+		{
+			"IsNonResource": true,
+			"type": "application/json"
+		}
+	],
+	"GeneralInfo": {
+		"BrowserVersion": "",
+		"IsWinInetMode": false,
+		"MaxUsedConnections": 0,
+		"RecordedBrowser": "",
+		"RecordingDate": "Apr-16-2023",
+		"RecordingDuration": 0,
+		"RecordingMode": "N/A",
+		"RecordingTimeStamp": 1681675089,
+		"RecordingType": "Browser",
+		"TotalBytesReceived": 971,
+		"TotalBytesSent": 1572,
+		"TotalRequests": 1,
+		"UserAgent": "",
+		"ReadOnly": true
+	},
+	"HostInfo": [
+		{
+			"DomainName": "update.googleapis.com",
+			"Domains": [
+				{
+					"HTTPVersion": "HTTP/2.0",
+					"IP": "",
+					"IncludeInScript": false,
+					"Name": "update.googleapis.com",
+					"Port": 443,
+					"Requests": [
+						{
+							"URL": "https://update.googleapis.com/service/update2/json",
+							"CompressionType": "gzip",
+							"DataType": "application/json",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 971
+						}
+					],
+					"SSLCipher": "N/A",
+					"SSLVersion": "N/A"
+				}
+			],
+			"IncludeInScript": true
+		}
+	],
+	"WebSocket": {
+		"IncludeInScript": false,
+		"IsScriptIncludeWebSocket": false
+	},
+	"NumberOfCorrelations": 0
+}

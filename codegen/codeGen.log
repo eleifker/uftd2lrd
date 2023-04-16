@@ -1,0 +1,12 @@
+[19:58:09.90] Info: Running build Release_2022.2.0_2378 on windows
+[19:58:09.92] Info: DevWeb offline generator started with 'har' mode, 'pages' level.
+[19:58:09.92] Info: Generating script from 'C:\Users\demo\eclipse-workspace\eluftd\LRDev\proxyrecorder.har'.
+[19:58:09.92] Info: Using configuration file: C:\ProgramData\Micro Focus\LoadRunner\DevWeb\generator_config.yml.
+[19:58:09.93] Info: HAR file loaded, started parsing phase.
+[19:58:09.93] Info: Configured none resources list: [text/html text/xml text/plain application/json]
+[19:58:09.93] Info: Parsing done, loaded 1 steps from HAR.
+[19:58:09.93] Info: Configured headers to filter: [Host Content-Length Cookie]
+[19:58:09.93] Info: Configured hosts exclude list: [.*google.* .*bing.* .*geolocation.* .*gstatic.* .*firefox.*]
+[19:58:09.93] Info: Configured extensions to filter: [.ico]
+[19:58:09.97] Info: DevWeb script generated in folder 'C:\Users\demo\eclipse-workspace\eluftd'.
+[19:58:09.97] Info: Save input file as C:\Users\demo\eclipse-workspace\eluftd\codegen\codegen.har

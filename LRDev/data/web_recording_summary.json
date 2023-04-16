@@ -1,0 +1,399 @@
+{
+	"FilterHeaders": [
+		{
+			"Header": "",
+			"IncludeInScript": false
+		}
+	],
+	"FilterResources": [
+		{
+			"IsNonResource": true,
+			"type": "application/json"
+		},
+		{
+			"IsNonResource": true,
+			"type": "text/xml"
+		},
+		{
+			"IsNonResource": true,
+			"type": "text/plain"
+		},
+		{
+			"IsNonResource": false,
+			"type": "application/x-chrome-extension"
+		},
+		{
+			"IsNonResource": true,
+			"type": "text/html"
+		},
+		{
+			"IsNonResource": false,
+			"type": "application/javascript"
+		},
+		{
+			"IsNonResource": false,
+			"type": "image/gif"
+		}
+	],
+	"GeneralInfo": {
+		"BrowserVersion": "",
+		"IsWinInetMode": false,
+		"MaxUsedConnections": 0,
+		"RecordedBrowser": "",
+		"RecordingDate": "Apr-16-2023",
+		"RecordingDuration": 0,
+		"RecordingMode": "N/A",
+		"RecordingTimeStamp": 1681676319,
+		"RecordingType": "Browser",
+		"TotalBytesReceived": 6915528,
+		"TotalBytesSent": 10370,
+		"TotalRequests": 30,
+		"UserAgent": "",
+		"ReadOnly": true
+	},
+	"HostInfo": [
+		{
+			"DomainName": "aos.com",
+			"Domains": [
+				{
+					"HTTPVersion": "HTTP/1.1",
+					"IP": "",
+					"IncludeInScript": true,
+					"Name": "nimbusserver.aos.com",
+					"Port": 8002,
+					"Requests": [
+						{
+							"URL": "http://nimbusserver.aos.com:8002/catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL",
+							"CompressionType": "gzip",
+							"DataType": "application/json",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 7032
+						},
+						{
+							"URL": "http://nimbusserver.aos.com:8001//accountservice/ws/GetAccountConfigurationRequest",
+							"CompressionType": "",
+							"DataType": "",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 596
+						},
+						{
+							"URL": "http://nimbusserver.aos.com:8001//accountservice/ws/GetAccountConfigurationRequest",
+							"CompressionType": "",
+							"DataType": "text/xml",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 1560
+						},
+						{
+							"URL": "http://nimbusserver.aos.com:8002/catalog/api/v1/categories",
+							"CompressionType": "gzip",
+							"DataType": "application/json",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 4959
+						},
+						{
+							"URL": "http://nimbusserver.aos.com:8002/catalog/api/v1/deals/search?dealOfTheDay=true",
+							"CompressionType": "gzip",
+							"DataType": "application/json",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 842
+						},
+						{
+							"URL": "http://nimbusserver.aos.com:8002/catalog/api/v1/categories/4/products",
+							"CompressionType": "gzip",
+							"DataType": "application/json",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 2479
+						},
+						{
+							"URL": "http://nimbusserver.aos.com:8002/catalog/api/v1/categories/attributes",
+							"CompressionType": "gzip",
+							"DataType": "application/json",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 1043
+						},
+						{
+							"URL": "http://nimbusserver.aos.com:8002/catalog/api/v1/categories/all_data",
+							"CompressionType": "gzip",
+							"DataType": "application/json",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 9032
+						},
+						{
+							"URL": "http://nimbusserver.aos.com:8002/catalog/api/v1/products/25",
+							"CompressionType": "gzip",
+							"DataType": "application/json",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 1092
+						},
+						{
+							"URL": "http://nimbusserver.aos.com:8002/catalog/api/v1/categories/4/products",
+							"CompressionType": "gzip",
+							"DataType": "application/json",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 2472
+						}
+					],
+					"SSLCipher": "None",
+					"SSLVersion": "None"
+				}
+			],
+			"IncludeInScript": true
+		},
+		{
+			"DomainName": "gvt1.com",
+			"Domains": [
+				{
+					"HTTPVersion": "HTTP/1.1",
+					"IP": "",
+					"IncludeInScript": true,
+					"Name": "edgedl.me.gvt1.com",
+					"Port": 80,
+					"Requests": [
+						{
+							"URL": "http://edgedl.me.gvt1.com/edgedl/chromewebstore/L2Nocm9tZV9leHRlbnNpb24vYmxvYnMvYjFkQUFWdmlaXy12MHFUTGhWQUViMUVlUQ/0.57.44.2492_hnimpnehoodheedghdeeijklkeaacbdc.crx",
+							"CompressionType": "",
+							"DataType": "application/x-chrome-extension",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 206,
+							"Size": 242724
+						},
+						{
+							"URL": "http://edgedl.me.gvt1.com/edgedl/chromewebstore/L2Nocm9tZV9leHRlbnNpb24vYmxvYnMvYjFkQUFWdmlaXy12MHFUTGhWQUViMUVlUQ/0.57.44.2492_hnimpnehoodheedghdeeijklkeaacbdc.crx",
+							"CompressionType": "",
+							"DataType": "application/x-chrome-extension",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 206,
+							"Size": 507338
+						},
+						{
+							"URL": "http://edgedl.me.gvt1.com/edgedl/chromewebstore/L2Nocm9tZV9leHRlbnNpb24vYmxvYnMvYjFkQUFWdmlaXy12MHFUTGhWQUViMUVlUQ/0.57.44.2492_hnimpnehoodheedghdeeijklkeaacbdc.crx",
+							"CompressionType": "",
+							"DataType": "application/x-chrome-extension",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 206,
+							"Size": 1017755
+						},
+						{
+							"URL": "http://edgedl.me.gvt1.com/edgedl/chromewebstore/L2Nocm9tZV9leHRlbnNpb24vYmxvYnMvYjFkQUFWdmlaXy12MHFUTGhWQUViMUVlUQ/0.57.44.2492_hnimpnehoodheedghdeeijklkeaacbdc.crx",
+							"CompressionType": "",
+							"DataType": "application/x-chrome-extension",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 206,
+							"Size": 2046786
+						},
+						{
+							"URL": "http://edgedl.me.gvt1.com/edgedl/chromewebstore/L2Nocm9tZV9leHRlbnNpb24vYmxvYnMvYjFkQUFWdmlaXy12MHFUTGhWQUViMUVlUQ/0.57.44.2492_hnimpnehoodheedghdeeijklkeaacbdc.crx",
+							"CompressionType": "",
+							"DataType": "application/x-chrome-extension",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 206,
+							"Size": 2761090
+						}
+					],
+					"SSLCipher": "None",
+					"SSLVersion": "None"
+				}
+			],
+			"IncludeInScript": true
+		},
+		{
+			"DomainName": "nimbusserver",
+			"Domains": [
+				{
+					"HTTPVersion": "HTTP/1.1",
+					"IP": "",
+					"IncludeInScript": true,
+					"Name": "nimbusserver",
+					"Port": 8000,
+					"Requests": [
+						{
+							"URL": "http://nimbusserver:8000/",
+							"CompressionType": "gzip",
+							"DataType": "text/html",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 3226
+						},
+						{
+							"URL": "http://nimbusserver:8000/vendor/requirejs/require.js",
+							"CompressionType": "gzip",
+							"DataType": "application/javascript",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 21431
+						},
+						{
+							"URL": "http://nimbusserver:8000/main.min.js",
+							"CompressionType": "gzip",
+							"DataType": "application/javascript",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 268680
+						},
+						{
+							"URL": "http://nimbusserver:8000/services.properties",
+							"CompressionType": "",
+							"DataType": "",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 1379
+						},
+						{
+							"URL": "http://nimbusserver:8000/app/tempFiles/popularProducts.json",
+							"CompressionType": "gzip",
+							"DataType": "application/json",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 927
+						},
+						{
+							"URL": "http://nimbusserver:8000/app/views/home-page.html",
+							"CompressionType": "gzip",
+							"DataType": "text/html",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 2653
+						},
+						{
+							"URL": "http://nimbusserver:8000/app/views/category-page.html",
+							"CompressionType": "",
+							"DataType": "text/html",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 2272
+						},
+						{
+							"URL": "http://nimbusserver:8000/app/views/product-page.html",
+							"CompressionType": "gzip",
+							"DataType": "text/html",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 2780
+						},
+						{
+							"URL": "http://nimbusserver:8000/app/views/shoppingCart.html",
+							"CompressionType": "gzip",
+							"DataType": "text/html",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 1893
+						}
+					],
+					"SSLCipher": "None",
+					"SSLVersion": "None"
+				}
+			],
+			"IncludeInScript": true
+		},
+		{
+			"DomainName": "google-analytics.com",
+			"Domains": [
+				{
+					"HTTPVersion": "HTTP/2.0",
+					"IP": "",
+					"IncludeInScript": false,
+					"Name": "www.google-analytics.com",
+					"Port": 443,
+					"Requests": [
+						{
+							"URL": "https://www.google-analytics.com/collect?v=1&_v=j99&a=1176828034&t=pageview&_s=2&dl=http%3A%2F%2Fnimbusserver%2F&dp=%2F&ul=en-us&de=UTF-8&dt=%C2%A0Advantage%20Shopping&sd=24-bit&sr=1918x968&vp=1918x825&je=0&_u=CACAAEABAAAAACACI~&jid=&gjid=&cid=1148382111.1681331043&tid=UA-81334227-1&_gid=667878837.1681669755&z=1771678300",
+							"CompressionType": "",
+							"DataType": "image/gif",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 578
+						},
+						{
+							"URL": "https://www.google-analytics.com/collect?v=1&_v=j99&a=1176828034&t=pageview&_s=3&dl=http%3A%2F%2Fnimbusserver%2F&dp=%2Fcategory%2FSpeakers%2F4&ul=en-us&de=UTF-8&dt=%C2%A0Advantage%20Shopping&sd=24-bit&sr=1918x968&vp=1918x825&je=0&_u=CACAAEABAAAAACACI~&jid=&gjid=&cid=1148382111.1681331043&tid=UA-81334227-1&_gid=667878837.1681669755&z=322382450",
+							"CompressionType": "",
+							"DataType": "image/gif",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 578
+						},
+						{
+							"URL": "https://www.google-analytics.com/collect?v=1&_v=j99&a=1176828034&t=pageview&_s=4&dl=http%3A%2F%2Fnimbusserver%2F&dp=%2Fproduct%2F25&ul=en-us&de=UTF-8&dt=%C2%A0Advantage%20Shopping&sd=24-bit&sr=1918x968&vp=1918x825&je=0&_u=CACAAEABAAAAACACI~&jid=&gjid=&cid=1148382111.1681331043&tid=UA-81334227-1&_gid=667878837.1681669755&z=358203325",
+							"CompressionType": "",
+							"DataType": "image/gif",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 578
+						},
+						{
+							"URL": "https://www.google-analytics.com/collect?v=1&_v=j99&a=1176828034&t=pageview&_s=5&dl=http%3A%2F%2Fnimbusserver%2F&dp=%2FshoppingCart&ul=en-us&de=UTF-8&dt=%C2%A0Advantage%20Shopping&sd=24-bit&sr=1918x968&vp=1918x825&je=0&_u=CACAAEABAAAAACACI~&jid=&gjid=&cid=1148382111.1681331043&tid=UA-81334227-1&_gid=667878837.1681669755&z=2057325378",
+							"CompressionType": "",
+							"DataType": "image/gif",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 578
+						},
+						{
+							"URL": "https://www.google-analytics.com/collect?v=1&_v=j99&a=1176828034&t=pageview&_s=6&dl=http%3A%2F%2Fnimbusserver%2F&dp=%2F&ul=en-us&de=UTF-8&dt=%C2%A0Advantage%20Shopping&sd=24-bit&sr=1918x968&vp=1918x825&je=0&_u=CACAAEABAAAAACACI~&jid=&gjid=&cid=1148382111.1681331043&tid=UA-81334227-1&_gid=667878837.1681669755&z=951597949",
+							"CompressionType": "",
+							"DataType": "image/gif",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 578
+						},
+						{
+							"URL": "https://www.google-analytics.com/j/collect?v=1&_v=j99&a=1176828034&t=pageview&_s=1&dl=http://nimbusserver/&ul=en-us&de=UTF-8&dt= Advantage Shopping&sd=24-bit&sr=1918x968&vp=1918x825&je=0&_u=AACAAEABAAAAACAAI~&jid=1654043685&gjid=1357010152&cid=1148382111.1681331043&tid=UA-81334227-1&_gid=667878837.1681669755&_r=1&_slc=1&z=1095999840",
+							"CompressionType": "",
+							"DataType": "text/plain",
+							"DownloadTime": 0,
+							"EventId": 0,
+							"HttpStatus": 200,
+							"Size": 597
+						}
+					],
+					"SSLCipher": "N/A",
+					"SSLVersion": "N/A"
+				}
+			],
+			"IncludeInScript": true
+		}
+	],
+	"WebSocket": {
+		"IncludeInScript": false,
+		"IsScriptIncludeWebSocket": false
+	},
+	"NumberOfCorrelations": 0
+}
