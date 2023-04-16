@@ -18,7 +18,7 @@ import unittesting.*;
 public class UFTDeveloperTest extends UnitTestClassBase {
 
     public UFTDeveloperTest() {
-        //Change this constructor to private if you supply your own public constructor
+        //Change this constructor to private if you supply your own public constructor some change
     }
 
     @BeforeClass
