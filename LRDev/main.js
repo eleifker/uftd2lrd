@@ -1,4 +1,4 @@
-//a comment added another change something for git github  change change
+//a comment added another change something for git github  change change change
 // This script was generated and reflects raw data. It is recommended to change this code to your required logic
 load.initialize("Initialize", async function () {
 });
